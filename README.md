@@ -32,12 +32,3 @@ Download the latest version from the **Assets** section of this GitHub Release.
 Please respect other people's privacy and obtain their consent before recording them.
 ## 📱 Said Background Recorder — App Screenshots
 
-Explore the app interface below.
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fe39e7dc-9003-492d-89d1-3c36b1eab820" width="200" alt="Said Background Recorder Screenshot 1" />
-  <img src="https://github.com/user-attachments/assets/3a3b7c91-3bea-4984-b143-6d6bca72ce5c" width="200" alt="Said Background Recorder Screenshot 2" />
-  <img src="https://github.com/user-attachments/assets/7b3ce915-57f8-4027-becb-0dc1c9aa93f3" width="200" alt="Said Background Recorder Screenshot 3" />
-</div>
-
-**Note:** Background recording capabilities depend on your device and Android version.
